@@ -1,3 +1,5 @@
+
+
 <?php
 	// Merge widgets that were fluently declared with widgets declared without the fluent syntax:
 	// - $data['widgets']['before_content']
